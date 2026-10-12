@@ -1,5 +1,6 @@
 # loan-default-risk-dashboard
 Power BI dashboard analyzing 255K loan records for default risk drivers.
+
 Loan Default Risk Dashboard (Power BI)
 An interactive, 4-page Power BI dashboard analyzing 255,347 loan records to uncover key risk drivers, financial exposures, and borrower profile characteristics for a lending portfolio risk use case.
 
