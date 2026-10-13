@@ -53,7 +53,7 @@ Built as a star schema: a central Loans fact table connected to dimension tables
 
 Files
 LOAN DEFAULT.pbix — the Power BI file
- — exported images of all 4 dashboard pages
+LOAN DEFAULT DASHBOARD VIEWS.pdf — exported images of all 4 dashboard pages
 Limitations
 The dataset has no date field, so it's a static snapshot rather than a time series — trend analysis and forecasting weren't possible.
 Findings describe correlation, not causation.
